@@ -1,11 +1,10 @@
 # ThanhToanTu-Portfolio
-Thanh Toan Tu Portfolio.
 
 ## Welcome to my portfolio!
 
 Built with JavaScript and HTML/CSS.
 
-Showing casing projects in HTML/CSS, JavaScript and React.
+Showcasing projects in HTML/CSS, JavaScript and React.
 
 ## Features:
 - Navigation: About, Work and Contact Information.

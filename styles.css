@@ -134,7 +134,13 @@ display: grid;
 grid-template-columns: repeat(3, 1fr);
 margin: 0 auto;
 max-width: 100em;
+height: 75vh;
 gap: 2rem; /* Space between grid items */
+overflow-y: scroll;
+padding: 0 2rem;
+background-color: #E0FBFC;
+border-top: 2rem solid #E0FBFC;
+border-bottom: 2rem solid #E0FBFC;
 }
 
 /* Project tile styling */
